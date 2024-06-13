@@ -19,5 +19,9 @@
     color: white;
     text-align: center;
     align-content: center;
-    margin: 10px 5px;
+    margin: 0 5px;
+}
+
+section {
+    margin-top: 20px;
 }
