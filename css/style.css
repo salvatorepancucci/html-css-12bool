@@ -3,3 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.content {
+    background-color: #006CFA;
+    border: 1px solid #fff;
+    color: white;
+    height: 50px;
+    text-align: center;
+    align-content: center;
+}
+
+.inner-content {
+    background-color: #00E165;
+    height: 30px;
+    color: white;
+    text-align: center;
+    align-content: center;
+    margin: 10px 5px;
+}
